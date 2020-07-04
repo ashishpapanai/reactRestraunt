@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactRestraunt/static/css/main.95a77cd4.chunk.css",
+    "main.js": "/reactRestraunt/static/js/main.4ec40dcd.chunk.js",
+    "main.js.map": "/reactRestraunt/static/js/main.4ec40dcd.chunk.js.map",
+    "runtime-main.js": "/reactRestraunt/static/js/runtime-main.de1020b8.js",
+    "runtime-main.js.map": "/reactRestraunt/static/js/runtime-main.de1020b8.js.map",
+    "static/css/2.a095ab49.chunk.css": "/reactRestraunt/static/css/2.a095ab49.chunk.css",
+    "static/js/2.6e991296.chunk.js": "/reactRestraunt/static/js/2.6e991296.chunk.js",
+    "static/js/2.6e991296.chunk.js.map": "/reactRestraunt/static/js/2.6e991296.chunk.js.map",
+    "index.html": "/reactRestraunt/index.html",
+    "precache-manifest.f8d13acb2348f3d02a4f5fffe91a6d83.js": "/reactRestraunt/precache-manifest.f8d13acb2348f3d02a4f5fffe91a6d83.js",
+    "service-worker.js": "/reactRestraunt/service-worker.js",
+    "static/css/2.a095ab49.chunk.css.map": "/reactRestraunt/static/css/2.a095ab49.chunk.css.map",
+    "static/css/main.95a77cd4.chunk.css.map": "/reactRestraunt/static/css/main.95a77cd4.chunk.css.map",
+    "static/js/2.6e991296.chunk.js.LICENSE.txt": "/reactRestraunt/static/js/2.6e991296.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/reactRestraunt/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de1020b8.js",
+    "static/css/2.a095ab49.chunk.css",
+    "static/js/2.6e991296.chunk.js",
+    "static/css/main.95a77cd4.chunk.css",
+    "static/js/main.4ec40dcd.chunk.js"
+  ]
+}
